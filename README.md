@@ -175,4 +175,3 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
 * **Learning Refinement Types**  
    He Zhu (Purdue University), Aditya V. Nori (Microsoft Research), and
    Suresh Jagannathan (Purdue University)
-

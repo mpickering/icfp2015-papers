@@ -3,7 +3,7 @@ Links to [accepted papers][icfp15-accepted] for the [20th ACM SIGPLAN Internatio
 [icfp15]: http://icfpconference.org/icfp2015/
 [icfp15-accepted]: http://icfpconference.org/icfp2015/accepted.html
 
-(Similar pages are available for [ICFP 2012][icfp12], [ICFP 2013][icfp13] and [ICFP 2014][icfp2014].  You may also be interested in [Haskell 2014 accepted papers][haskell2014-accepted] and [PLDI 2014 accepted papers][pldi2014-accepted].)
+(Similar pages are available for [ICFP 2012][icfp12], [ICFP 2013][icfp13] and [ICFP 2014][icfp14].  You may also be interested in [Haskell 2014 accepted papers][haskell2014-accepted] and [PLDI 2014 accepted papers][pldi2014-accepted].)
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/mpickering/icfp2015-papers.svg)](https://travis-ci.org/mpickering/icfp2015-papers)
 

@@ -135,7 +135,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
 
 * **Which simple types have a unique inhabitant?**  
    ([paper](http://gallium.inria.fr/~scherer/research/unique_inhabitants/unique_stlc_sums-long.pdf))  
-   Gabriel Scherer (INRIA) and Didier Rèmy (INRIA)
+   Gabriel Scherer (INRIA) and Didier Rémy (INRIA)
 
 * **HLIO: Mixing Static and Dynamic Typing for Information-Flow Control in Haskell**  
    Pablo Buiras (Chalmers University of Technology), Dimitrios

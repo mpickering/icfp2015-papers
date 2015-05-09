@@ -99,7 +99,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
 
 * **Denotational cost semantics for functional languages with inductive types**  
    Norman Danner (Wesleyan University), Daniel R. Licata (Wesleyan
-   University), and Ramyaa Ramyaa (Wesleyan University)
+   University), and Ramyaa (Wesleyan University)
 
 * **Bidirectional Programming in a More Applicative Style**  
    Kazutaka Matsuda (The University of Tokyo) and Meng Wang (University

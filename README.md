@@ -49,6 +49,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Andreas Rossberg (Google)
 
 * **RRB Vector: A Practical General Purpose Immutable Sequence**  
+   ([paper](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf))  
    Nicolas Stucki (EPFL, Switzerland), Tiark Rompf (Purdue University),
    and Vlad Ureche (EPFL, Switzerland)
 
@@ -82,6 +83,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Ranjit Jhala (UC San Diego)
 
 * **XQuery and Static Typing: Tackling the Problem of Backward Axes**  
+   ([paper](https://hal.inria.fr/hal-01082635v2/document))  
    Pierre Genevès (CNRS) and Nils Gesbert (Université Grenoble Alpes)
 
 * **Certified Symbolic Management of Financial Multi-Party Contracts**  

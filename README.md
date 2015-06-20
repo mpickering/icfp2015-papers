@@ -111,6 +111,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Paris Diderot)
 
 * **Practical Principled FRP: Forget the past, change the future, FRPNow!**  
+   ([paper](http://www.cse.chalmers.se/~atze/papers/prprfrp.pdf))  
    Atze van der Ploeg (Chalmers University of Technology) and Koen
    Claessen (Chalmers University of Technology)
 

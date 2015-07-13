@@ -90,7 +90,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Pierre Genevès (CNRS) and Nils Gesbert (Université Grenoble Alpes)
 
 * **Certified Symbolic Management of Financial Multi-Party Contracts**  
-   ([paper](http://www.diku.dk/~paba/pubs/files/bahr15icfp-preprint.pdf))  
+   ([paper](http://www.diku.dk/~paba/pubs/files/bahr15icfp-paper.pdf))  
    Patrick Bahr (University of Copenhagen), Jost Berthold (University
    of Copenhagen), and Martin Elsman (University of Copenhagen)
 

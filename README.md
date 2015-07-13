@@ -70,6 +70,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    and Sam Tobin-Hochstadt (Indiana University)
 
 * **Functional Pearl: A Smart View on Datatypes**  
+   ([paper](Functional Pearl: A Smart View on Datatypes))  
    Mauro Jaskelioff (CIFASIS - CONICET) and Exequiel Rivas (CIFASIS -
    CONICET)
 

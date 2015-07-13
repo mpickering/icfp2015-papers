@@ -37,6 +37,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Ağacan (Indiana University)
 
 * **Partial Aborts for Transactions via First-Class Continuations**  
+   ([paper](http://www.cs.rit.edu/~ml9951/icfp15.pdf))  
    Matthew Le (Rochester Institute of Technology) and Matthew Fluet
    (Rochester Institute of Technology)
 
@@ -62,6 +63,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    (Indiana University), and Sam Tobin-Hochstadt (Indiana University)
 
 * **An Optimizing Compiler for a Purely Functional Web-Application Language**  
+   ([paper](http://adam.chlipala.net/papers/UrWebICFP15/UrWebICFP15.pdf))
    Adam Chlipala (MIT CSAIL)
 
 * **Expressing Contract Monitors as Patterns of Communication**  
@@ -99,10 +101,12 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Peyton Jones (Microsoft Research Cambridge)
 
 * **Denotational cost semantics for functional languages with inductive types**  
+   ([paper](http://arxiv.org/pdf/1506.01949v1.pdf))  
    Norman Danner (Wesleyan University), Daniel R. Licata (Wesleyan
    University), and Ramyaa (Wesleyan University)
 
 * **Bidirectional Programming in a More Applicative Style**  
+   ([paper](http://www2.sf.ecei.tohoku.ac.jp/~kztk/papers/kztk_icfp2015.pdf))  
    Kazutaka Matsuda (The University of Tokyo) and Meng Wang (University
    of Kent)
 
@@ -117,6 +121,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Claessen (Chalmers University of Technology)
 
 * **Analysing the Complexity of Functional Programs: Higher-Order Meets First-Order**  
+   ([paper](http://arxiv.org/pdf/1506.05043v1.pdf))
    Martin Avanzini (University of Bologna, Italy & Inria, France), Ugo
    Dal Lago (University of Bologna, Italy & Inria, France), and Georg
    Moser (University of Innsbruck)
@@ -129,10 +134,12 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    UK)
 
 * **Hygienic Resugaring of Compositional Desugaring**  
+   ([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pk-hyg-resugaring-comp-desugaring/paper.pdf))
    Justin Pombrio (Brown University) and Shriram Krishnamurthi (Brown
    University)
 
 * **Functional Pearl: Two can keep a secret, if one of them uses Haskell**  
+   ([paper](http://www.cse.chalmers.se/~russo/publications_files/pearl-russo.pdf))
    Alejandro Russo (Chalmers University of Technology)
 
 * **Which simple types have a unique inhabitant?**  
@@ -152,11 +159,13 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Tiark Rompf (Purdue University) and Nada Amin (EPFL)
 
 * **A Fast Compiler for NetKAT**  
+   ([paper](http://arxiv.org/pdf/1506.06378v2.pdf))  
    Steffen Smolka (Cornell University), Spiridon Eliopoulos (Inhabited
    Type), Nate Foster (Cornell University), and Arjun Guha (University
    of Massachusetts Amherst)
 
 * **Structures for structural recursion**  
+   ([paper](http://ix.cs.uoregon.edu/~pdownen/publications/structure-recursion.pdf))  
    Paul Downen (University of Oregon), Philip Johnson-Freyd (University
    of Oregon), and Zena M. Ariola (University of Oregon)
 

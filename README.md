@@ -37,7 +37,6 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Ağacan (Indiana University)
 
 * **Partial Aborts for Transactions via First-Class Continuations**  
-   ([paper](http://www.cs.rit.edu/~ml9951/icfp15.pdf))  
    Matthew Le (Rochester Institute of Technology) and Matthew Fluet
    (Rochester Institute of Technology)
 

@@ -147,6 +147,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Gabriel Scherer (INRIA) and Didier Rémy (INRIA)
 
 * **HLIO: Mixing Static and Dynamic Typing for Information-Flow Control in Haskell**  
+   ([paper](http://www.cse.chalmers.se/~russo/publications_files/hybrid-icfp2015.pdf))  
    Pablo Buiras (Chalmers University of Technology), Dimitrios
    Vytiniotis (Microsoft Research), and Alejandro Russo (Chalmers
    University of Technology)
@@ -156,6 +157,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Romain Péchoux (Universitè de Lorraine)
 
 * **Functional Pearl: A SQL to C Compiler in 500 Lines of Code**  
+   ([paper](https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf))  
    Tiark Rompf (Purdue University) and Nada Amin (EPFL)
 
 * **A Fast Compiler for NetKAT**  
@@ -182,6 +184,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Vafeiadis (MPI-SWS, Germany)
 
 * **Practical SMT-Based Type Error Localization**  
+   ([paper](http://www.cs.nyu.edu/~zvonimir/papers/icfp15.pdf))  
    Zvonimir Pavlinovic (New York University), Tim King (Verimag), and
    Thomas Wies (New York University)
 

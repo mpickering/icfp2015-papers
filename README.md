@@ -37,10 +37,12 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Ağacan (Indiana University)
 
 * **Partial Aborts for Transactions via First-Class Continuations**  
+   ([paper](http://www.cs.rit.edu/~ml9951/icfp15.pdf))
    Matthew Le (Rochester Institute of Technology) and Matthew Fluet
    (Rochester Institute of Technology)
 
 * **Blame Assignment for Higher-Order Contracts with Intersection and Union**  
+   ([paper](http://www2.informatik.uni-freiburg.de/~keilr/papers/icfp2015-blame.pdf))
    Matthias Keil (University of Freiburg) and Peter Thiemann
    (University of Freiburg)
 
@@ -171,6 +173,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    of Oregon), and Zena M. Ariola (University of Oregon)
 
 * **Automatic Refunctionalization to a Language with Copattern Matching: With Applications to the Expression Problem**  
+   ([paper](http://ps.informatik.uni-tuebingen.de/publications/rendel15automatic.pdf))
    Tillmann Rendel (University of Tübingen), Julia Trieflinger
    (University of Tübingen), and Klaus Ostermann (University of
    Tübingen)
@@ -188,5 +191,6 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Thomas Wies (New York University)
 
 * **Learning Refinement Types**  
+   ([paper](http://research.microsoft.com/pubs/245062/icfp_my_version.pdf))
    He Zhu (Purdue University), Aditya V. Nori (Microsoft Research), and
    Suresh Jagannathan (Purdue University)

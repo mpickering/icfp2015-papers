@@ -26,6 +26,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    (Northeastern University CCIS)
 
 * **Adaptive Lock-Free Data: Purely-Functional to Scalable**  
+   ([paper])(http://www.cs.indiana.edu/~rrnewton/papers/icfp15_adaptive_data.pdf) 
    Peter Fogg (Indiana University), Ali Varamesh (Indiana University),
    and Ryan R. Newton (Indiana University)
 
@@ -51,7 +52,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    Andreas Rossberg (Google)
 
 * **RRB Vector: A Practical General Purpose Immutable Sequence**  
-   ([paper](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf))  
+   ([paper](http://infoscience.epfl.ch/record/213452/files/rrbvector.pdf))  
    Nicolas Stucki (EPFL, Switzerland), Tiark Rompf (Purdue University),
    and Vlad Ureche (EPFL, Switzerland)
 
@@ -154,6 +155,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/mpickerin
    University of Technology)
 
 * **Algebras and Coalgebras in the Light Affine Lambda Calculus**  
+   ([paper])(https://hal.inria.fr/hal-01112165/file/main.pdf) 
    Marco Gaboardi (University of Dundee and Harvard University) and
    Romain Péchoux (Universitè de Lorraine)
 
